@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run start",
+    "start": "node main.js"
+  },
+  "author": "aman",
+  "license": "ISC"
+}
